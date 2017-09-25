@@ -1,0 +1,19 @@
+{
+  "name": "cactus-digital",
+  "version": "1.0.0",
+  "description": "Home page for the digital agency",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Fabyao/cactus-digital.git"
+  },
+  "author": "Fabrice Yao",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Fabyao/cactus-digital/issues"
+  },
+  "homepage": "https://github.com/Fabyao/cactus-digital#readme"
+}
