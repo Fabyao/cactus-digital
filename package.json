@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Fabyao/cactus-digital/issues"
   },
-  "homepage": "https://github.com/Fabyao/cactus-digital#readme"
+  "homepage": "https://github.com/Fabyao/cactus-digital#readme",
+  "dependencies": {
+    "express": "^4.15.5"
+  }
 }
